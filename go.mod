@@ -1,4 +1,4 @@
-module gitlab.com/flip-id/default/wappin
+module github.com/hitzam/wappin
 
 go 1.14
 
